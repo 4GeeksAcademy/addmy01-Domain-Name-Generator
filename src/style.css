@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+img {
+  width: auto;
+  height: 100px;
+}
+
+div:hover {
+  color: green;
+  cursor: pointer;
+}
